@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Avinash",
+      "category": "sports",
+      "difficulty": "level-1",
+      "No_of_quest": "10"
+    },
+    {
+      "name": "Mohit",
+      "category": "geography",
+      "difficulty": "intermediate",
+      "No_of_quest": "8",
+      "id": 2
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "question": "Which two team in IPL have won the four times?",
+      "option_A": "Lucknow Giants",
+      "option_B": "Kolkata knight riders",
+      "option_C": "CSK",
+      "option_D": "Mumbai Indians",
+      "solution": "CSK"
+    },
+    {
+      "question": "Who is the president of India ?",
+      "option_A": "Dropadi Murmu",
+      "option_B": "Narendra Modi",
+      "option_C": "Mulayam Singh",
+      "option_D": "Amit Shah",
+      "solution ": "Dropadi Murmu",
+      "id": 2
+    }
+  ]
+}
